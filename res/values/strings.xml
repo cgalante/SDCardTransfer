@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">SDCardTransfer</string>
+	<string-array name="images">
+		<item>png</item>
+		<item>jpg</item>
+		<item>jpeg</item>
+		<item>bmp</item>
+		<item>gif</item>
+		<item>tif</item>
+	</string-array>
+	<!--<string name="loading">Loading...</string>-->
+</resources>
